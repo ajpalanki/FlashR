@@ -54,6 +54,7 @@ function App() {
 
   return (
     <>
+      <h1>Flash-R</h1>
       <form className="header" onSubmit={handleSubmit}>
         <div className="form-group">
           <label htmlFor="category">Category</label>
@@ -74,7 +75,7 @@ function App() {
             id="amount"
             min="1"
             step="1"
-            defaultValue={10}
+            defaultValue={20}
             ref={amountEl}
           />
         </div>
