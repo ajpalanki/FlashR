@@ -1,1 +1,1 @@
-CLICK HERE TO LAUNCH WEBSITE - https://abhijeetpalanki-flashr.netlify.app/
+VISIT HERE - https://abhijeetpalanki-flashr.netlify.app/
